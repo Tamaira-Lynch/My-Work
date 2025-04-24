@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<HTML lang="en">
+  <HTML>
+    <head>
+      <title> Travel Agency Page </title>
+      <meta charset="utf-8">
+      <meta name="description" content="Discover different excursions in Dubai. Along with a variety of food and drink places you can discover.">
+  </head> 
+  <body>
+  <h1> Take a trip to Dubai </h1>
+  <p> Art, history, food <strong> (Dubai Chocolate!) </strong>, shopping malls, parties and more! Choose amongst our variety of guide tours and excursions to live an memorable expierence in Dubai.</p>
+  <h2>Packages</h2>
+<p> We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns to discover the heart of Dubai.</p>
+<ul>
+  <li> <a href="https://www.freecodecamp.org/learn" target="_blank">
+  Group Travels </li></a>
+  <li> <a href="https://www.freecodecamp.org/learn" target="_blank">
+  Private Tours </li></a>
+</ul>
+<h2> Top Itineraries </h2>
+<figure>
+  <a href="https://www.freecodecamp.org/learn"target="_blank">
+  <img src="https://lp-cms-production.imgix.net/features/2017/09/dubai-marina-skyline-2c8f1708f2a1.jpg?auto=compress&format=auto&fit=crop&q=50&w=1200&h=800" alt="A picture of Dubai City"
+  width="800"
+  heifht="800"/> </a>
+  <figcaption> Dubai City is hands down beautiful😍</figcaption>
+  </figure>
+  <figure>
+<a href="https://www.freecodecamp.org/learn"target="_blank">
+<img src="https://www.eligasht.co.uk/Blog/wp-content/uploads/2022/12/Dubais-foods.jpg" alt="food in Dubai"
+width="800"
+height="500"/> </a> 
+<figcaption>Amazing Dubai food❤️</figcaption>
+</figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn"target="_blank">
+<img src="https://media.timeout.com/images/106264460/750/422/image.jpg" alt="dubai chocolate"
+width="800"
+height="500"/> </a>
+<figcaption> The famous <em> <strong>Dubai Chocolate!</en></strong></figcaption>
+</figure>
+</body>
+</html>
+
